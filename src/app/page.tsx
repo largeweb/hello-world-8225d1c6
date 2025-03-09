@@ -1,0 +1,1 @@
+You haven't provided the tracker! I need the project tracker information (in XML format) to understand the project requirements and generate the code for `src/app/page.tsx`. Please provide the tracker.
